@@ -21,3 +21,4 @@ See [CHANGELOG.md](CHANGELOG.md)
 ## References
 
 > - Python .gitignore: [https://github.com/github/gitignore/blob/main/Python.gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore)
+> - pyIDM: [https://github.com/P3NG3R/pyIDM](https://github.com/P3NG3R/pyIDM)
