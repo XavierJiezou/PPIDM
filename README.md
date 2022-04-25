@@ -1,14 +1,14 @@
-# PyIDM
+# PPyIDM
 
 ## Install
 
 ```bash
-pip install pyidm
+pip install ppyidm
 ```
 
 ## Usage
 
-`$ pyidm`
+`$ ppyidm`
 
 ## Changelog
 

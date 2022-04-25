@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "PyIDM"
+name = "PPyIDM"
 version = "0.1.0"
 description = ""
 authors = ["XavierJiezou <878972272@qq.com>"]
