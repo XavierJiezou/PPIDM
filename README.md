@@ -1,5 +1,7 @@
 # PPIDM
 
+Pure Python Internet Download Manager (IDM).
+
 ## Install
 
 ```bash
